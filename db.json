@@ -1,4 +1,10 @@
 {
+    "profile": [
     { "id": 1, "name": "Thao"},
     { "id": 2, "name": "Huy"}
+    ],
+    "post": [
+    { "id": 1, "tittle": "This is a book"},
+    { "id": 2, "tittle": "Hello world!"}
+    ]
 }
